@@ -9,3 +9,4 @@ NOTES:<br>
 - consider the order of the corners of bounding boxes. the first is the lowest corner and then it goes CW <br>
 
 ![mask](/0.png)
+![result](/m-0.png)
