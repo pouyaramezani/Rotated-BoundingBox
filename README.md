@@ -8,4 +8,4 @@ NOTES:<br>
 - It returns [[0,0],[0,0],[0,0],[0,0]] when it can not find the object in the frame. <br>
 - consider the order of the corners of bounding boxes. the first is the lowest corner and then it goes CW <br>
 
-![mask](Rotated-BoundingBox/0.png)
+![mask](/0.png)
