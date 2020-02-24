@@ -6,3 +6,17 @@ In the following example, the algorithm could only detect one leg of a person.
 In the prior images of this sequence, when there is only one contour, there is no problem.  
   
 ![](m-24.png)
+
+  
+### The problem of minus coordiantes are happend in both cases:  
+m-25:  
+370 239  
+279 0  
+351 -27  
+442 212  
+  
+m-24:  
+360 395  
+206 4  
+396 -70  
+550 320  
