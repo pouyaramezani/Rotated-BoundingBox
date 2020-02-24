@@ -4,4 +4,4 @@
 327 -4
 362 476
 
-![sample](Issues/m-2.png)
+![sample](Rotated-BoundingBox/Issues/m-2.png)
