@@ -4,4 +4,4 @@
 327 -4
 362 476
 
-![sample](/m-2.png)
+![sample](Issues/m-2.png)
