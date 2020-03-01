@@ -24,3 +24,4 @@ m-24:
   
   
 #### An "amodal" box is needed to bound the complete object even if part of the object is occluded or truncated.
+![](m-0.png)
