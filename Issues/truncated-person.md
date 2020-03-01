@@ -20,3 +20,7 @@ m-24:
 206 4  
 396 -70  
 550 320  
+  
+  
+  
+## An "amodal" box is needed to bound the complete object even if part of the object is occluded or truncated.
